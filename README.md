@@ -13,7 +13,7 @@ Run these commands:
 
 `node app.js`
 
-or Run by docker compose 2
+or Run by docker compose dipali
 
 test
 
